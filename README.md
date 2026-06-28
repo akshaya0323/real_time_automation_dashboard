@@ -372,14 +372,3 @@ const isAnomaly = Math.random() > 0.95;  // Anomaly probability (5%)
 > Requires: `fetch`, `requestAnimationFrame`, `CSS Custom Properties`, `ES2020` (`?.`, `??`, `BigInt` not used — ES2018 syntax only)
 
 ---
-
-## License
-
-MIT License — free to use, modify, and distribute.
-
----
-
-<div align="center">
-  <strong>NEXUS RPA Enterprise Control Terminal · 2026</strong><br>
-  Built with Chart.js · Vanilla JS · Zero Dependencies
-</div>
